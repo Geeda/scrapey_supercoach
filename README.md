@@ -1,4 +1,4 @@
-# scrapey_supercoach
+# scrapey_supercoach V1
 
 ## Python code which you can use to generate the frequency of AFL players names several online articles/reports
 
